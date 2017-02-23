@@ -1,0 +1,89 @@
+html body{
+    background-color: rgb(104, 187, 285);
+    max-width: 100%;
+    font-family: sans-serif;
+}
+
+#div{
+    border: 1px solid black;
+}
+
+#header{
+    width: 1600px;
+    height: 200px;
+    background-color: #7EC2E2;
+    max-width: 100%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#container{
+    max-width: 100%;
+    background-color: #7EC2E2;
+    margin-bottom: 30px;
+    padding: 30px;
+}
+
+#left-box{
+    background-color: rgb(9, 30, 35);
+    width: 500px;
+    height: 100%;
+    float: left;
+    margin-right: 30px;
+    color: white;
+    padding: 20px;
+    text-align: justify
+}
+
+#left-box img{
+    width: 60%;
+    height: 60%;
+}
+
+#left-box ul li{
+    list-style: none;
+}
+
+#right-box{
+    background-color: rgb(88, 167, 205);
+    width: 780px;
+    height: 100%;
+    float: left;
+}
+
+#experiences-box{
+    padding: 30px;
+    background-color: white;
+}
+.experience{
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+
+#studies-box{
+    padding: 30px;
+    background-color: white;
+}
+.study{
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+#footer{
+    width: 1600px;
+    height: 200px;
+    background-color: #7EC2E2;
+    max-width: 100%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.clearfix{
+    clear: both;
+}
+
+#experiences-box{
+    background-color: white;
+    padding: 30px;
+}
